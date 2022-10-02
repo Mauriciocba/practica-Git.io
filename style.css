@@ -50,3 +50,9 @@ h1 {
     background-color: #262666;
     cursor: pointer;
 }
+
+a{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
